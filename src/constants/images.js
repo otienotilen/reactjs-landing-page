@@ -20,8 +20,14 @@ import award05 from '../assets/award05.png';
 import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
+import bg1 from '../assets/bg1.jpg';
+import bulb from '../assets/bulb.PNG';
+import chin from '../assets/chin.PNG';
 
 export default {
+  chin,
+  bulb,
+  bg1,
   bg,
   chef,
   G,
